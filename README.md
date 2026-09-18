@@ -43,24 +43,6 @@ The current investigation focus includes Windows authentication activity such as
 - Event ID **4624** — successful account logon
 - Event ID **4625** — failed account logon
 
-## Repository Structure
-
-```text
-agentic-ai-soc-analyst/
-├── ai_analyzer.py
-├── detection_engine.py
-├── event_collector.py
-├── event_parser.py
-├── main.py
-├── schemas.py
-├── winrm_client.py
-├── .env.example
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
-
 ## Development Roadmap
 
 - [x] WinRM client
