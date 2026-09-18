@@ -89,7 +89,3 @@ agentic-ai-soc-analyst/
 - Detection engineering
 - Secure AI-tool architecture
 - SOC investigation workflow design
-
-## License
-
-This project is available under the MIT License. See `LICENSE` for details.
