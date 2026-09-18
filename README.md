@@ -6,7 +6,7 @@ An AI-assisted security operations and threat-hunting project built around my [W
 
 ## Project Goals
 
-- Build a realistic SOC investigation pipeline without relying on a paid SIEM or cyber range.
+- Build a realistic SOC investigation pipeline 
 - Collect Windows Security events remotely using tightly scoped WinRM operations.
 - Transform raw Windows event XML into consistent dictionaries and JSON.
 - Detect suspicious activity with deterministic Python logic before involving AI.
